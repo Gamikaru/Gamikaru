@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a London-born, Tampa-based full-stack developer driven by curiosity—exploring everything from the physics of the universe to the code that brings ideas to life. I’m passionate about minimalist, clean design
+I'm a London-born, Tampa-based full-stack developer driven by curiosity—exploring everything from the physics of the universe to the code that brings ideas to life. I’m passionate about minimalist, clean design.
 
 ## About Me
 - **Curious Mind:** I thrive on exploring new technologies, frameworks, and stacks—always pushing myself to test out and integrate fresh tools.
