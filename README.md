@@ -1,6 +1,6 @@
 # Hello, World! 👋  
 
-I’m **Gavriel Rudolph**, a London-born, Tampa-based **Software and AI Engineer** with a passion for crafting clean, functional, and impactful software solutions. With over three years of experience in full-stack development and ongoing studies in Data Science, I’m driven by curiosity, creativity, and a love for solving complex problems through technology.  
+I’m **Gavriel**, a London-born, Tampa-based **Software and AI Engineer** with a passion for crafting clean, functional, and impactful software solutions. With over three years of experience in full-stack development and ongoing studies in Data Science, I’m driven by curiosity, creativity, and a love for solving complex problems through technology.  
 
 ---
 
