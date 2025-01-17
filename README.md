@@ -1,81 +1,63 @@
-
-
-# Hello World 👋  
-
-I'm **Gavriel**, a London-born, Tampa-based **full-stack developer** with a passion for crafting clean, functional, and impactful software solutions. Over the past few years, I've dedicated myself to mastering the art and science of software development—self-teaching, tackling challenging projects, and completing an intensive full-stack development program. Now, I’m excited to bring my skills, creativity, and drive to the tech industry as I kickstart my career in software development.
+Your LinkedIn summary is already impressive, as it reflects passion, curiosity, and creativity. However, it can be improved for general appeal by streamlining the content, adding stronger keywords for visibility, and ensuring a balance between personality and professionalism. Here's an updated and improved version:
 
 ---
 
-## About Me  
+### Hello, World! 👋  
 
-**🚀 Curious and Determined**  
-I thrive on solving problems and learning new technologies and languages, constantly pushing myself to explore frameworks, tools, and design patterns to refine my craft.  
-
-**🎨 A Creative Mindset**  
-Beyond coding, I draw inspiration from music, art, philosophy and science—applying creativity and attention to detail to my software projects.  
-
-**📊 Analytical and Strategic**  
-With a strong mathematical foundation and a growing interest in AI/ML, I approach challenges with a balance of logic, aesthetics, and precision.  
+I’m **Gavriel Rudolph**, a London-born, Tampa-based **Software and AI Engineer** with a passion for crafting clean, functional, and impactful software solutions. With over three years of experience in full-stack development and ongoing studies in Data Science, I’m driven by curiosity, creativity, and a love for solving complex problems through technology.  
 
 ---
 
-## Current Focus  
-
-🔭 **What I’m Building**  
-- **Java**: Developing scalable back-end services with Spring Boot, RESTful APIs, and comprehensive testing.  
-- **Python**: Creating data-driven applications using Django, Flask, FastAPI, while leveraging Python's versatility for prototyping and problem-solving.  
-- **Full-Stack Development**: Enhancing my expertise in cross-platform app development, DevOps best practices, and end-to-end project delivery.  
-
-👯 **Looking to Collaborate**  
-I’d love to contribute to **open-source projects** or work on **community-driven initiatives** that push boundaries and make an impact.  
-
-🤝 **Seeking Opportunities**  
-I'm actively looking for roles where I can grow as a developer, collaborate with talented teams, and contribute to building meaningful software.  
-
-📚 **Lifelong Learner**  
-- Currently pursuing a **BSc in Data Science** (4.0 GPA) at The Open University.  
-- Exploring advanced concepts in data analysis, programming, mathematics and machine learning while applying them to real-world scenarios.  
+### 🚀 About Me  
+- **Curious and Determined:** I thrive on solving challenges, constantly learning new frameworks, tools, and design patterns to refine my craft.  
+- **Creative Thinker:** Inspired by music, art, and philosophy, I blend creativity with logic to build elegant, user-centric solutions.  
+- **Analytical and Strategic:** With a solid mathematical foundation and a growing focus on AI/ML, I approach projects with a balance of precision and innovation.  
 
 ---
 
-## Fun Facts  
-
-⚡ When I’m not coding, you’ll find me:  
-- Studying.  
-- Watching **British comedy** (because let’s face it, it’s unmatched).  
-- Reading, sketching ideas, or just enjoying time with friends, maybe watching the UFC.   
-
----
-
-## Future Goals  
-
-- **Career Growth**: Transition into a software development role where I can apply my skills, grow professionally, and contribute to impactful projects.  
-- **Master the Stack**: From front-end interfaces to back-end systems, DevOps, and everything in between—I’m focused on becoming a **versatile engineer**.  
-- **AI/ML Aspirations**: Expand my knowledge of machine learning and data-driven solutions to build intelligent, adaptable systems in the future.  
+### 💻 Current Focus  
+- **AI/ML Development:** Building data-driven applications using Python (Django, Flask, FastAPI) and exploring machine learning models and pipelines.  
+- **Back-End Engineering:** Designing scalable systems and RESTful APIs with Java (Spring Boot), Python, and microservices architecture.  
+- **Full-Stack Development:** Enhancing expertise in cross-platform apps, responsive UIs, and end-to-end deployments using modern frameworks like React.  
+- **Open Source:** Actively contributing to open-source projects and community-driven initiatives that create real impact.  
 
 ---
 
-## Work & Projects  
+### 🌟 My Recent/Ongoing Projects  
+- **Prodai:** An AI-driven productivity app integrating OpenAI GPT APIs for personalized recommendations.  
+- **Clinical Trials Tracker:** A data visualization tool leveraging FastAPI, React, and Chart.js.  
+- **Rocket Food Delivery:** A cross-platform mobile app with real-time order tracking.  
 
-I’m currently building my portfolio, showcasing projects that reflect my growth as a developer:  
-- **Java Projects**: APIs, microservices, and tools built with Spring Boot and JUnit, designed for performance and scalability.  
-- **Python Applications**: Data-oriented apps and prototypes that demonstrate clean code and practical use cases.  
-- **Full-Stack Demos**: Responsive UIs, Dockerized deployments, and automated CI/CD pipelines.  
-
----
-
-## Let’s Connect!  
-
-📫 **Contact Me**  
-- LinkedIn: [linkedin.com/in/gavriel-rudolph](https://www.linkedin.com/in/gavriel-rudolph)  
-- Website: [gamikaru.com]
-
-💬 **Open to Conversations**  
-Whether you’re interested in collaborating, mentoring, or just chatting about tech and creativity, feel free to reach out. I’m always excited to connect and share ideas!  
+Explore my portfolio wite [gamikaru.com](http://gamikaru.com)  
+GitHub: [github.com/Gamikaru](http://github.com/Gamikaru)  
 
 ---
 
-Thanks for stopping by, and stay tuned for updates as I continue this exciting journey into the tech world!  
+### 🎯 Future Goals  
+- **Career Growth:** Collaborating with talented teams to solve real-world problems and contribute to meaningful software.  
+- **Master the Stack:** From front-end interfaces to DevOps and machine learning, I aim to become a versatile engineer.  
+- **AI Aspirations:** Advancing my understanding of ML/AI to build intelligent, adaptive systems that drive innovation.  
 
+---
 
+### ⚡ Fun Facts  
+- I’m a lifelong learner, currently pursuing a B.Sc. in Data Science with a perfect 4.0 GPA.  
+- In my downtime, I enjoy British comedy, sketching creative ideas, and watching UFC with friends.  
 
+---
+
+### 🤝 Let’s Connect!  
+I’m always open to new opportunities, collaborations, or simply sharing ideas about tech, AI, and creativity. Feel free to reach out!  
+
+- **LinkedIn:** [linkedin.com/in/gavriel-rudolph](http://linkedin.com/in/gavriel-rudolph)  
+- **Portfolio:** [gamikaru.com](http://gamikaru.com)  
+
+---
+
+### Why It Works:  
+1. **Concise yet comprehensive:** Removes redundancy while retaining key elements of your background and goals.  
+2. **Keyword-rich:** Optimized with strong tech and AI terms for searchability on LinkedIn.  
+3. **Engaging tone:** Professional yet approachable, with a mix of technical and personal insights.  
+4. **Call to action:** Clear invitation to connect and explore your work.  
+
+Let me know if you'd like further tweaks or assistance!
