@@ -31,7 +31,7 @@ GitHub: [github.com/Gamikaru](http://github.com/Gamikaru)
 
 ### 🎯 Future Goals  
 - **Career Growth:** Collaborating with talented teams to solve real-world problems and contribute to meaningful software.  
-- **Master the Stack:** From front-end interfaces to DevOps and machine learning, I aim to become a versatile engineer.  
+- **Master the Stack:** From front-end interfaces to DevOps and machine learning, I am a versatile engineer and always deepening my knowledge.  
 - **AI Aspirations:** Advancing my understanding of ML/AI to build intelligent, adaptive systems that drive innovation.  
 
 ---
